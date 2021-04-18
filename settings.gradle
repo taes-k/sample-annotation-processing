@@ -1,0 +1,4 @@
+rootProject.name = 'CustomLombok'
+include 'annotation'
+include 'app'
+
